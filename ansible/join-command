@@ -1,0 +1,1 @@
+kubeadm join 172.16.30.2:6443 --token 0dlkek.xy287ax46cn8jn35 --discovery-token-ca-cert-hash sha256:3c095bd1f7351cb538e0f8258806879ee77e95ec03bd98c99bbb577dc4a658d2
