@@ -30,7 +30,7 @@ Ansible playbooks will provision all necessary packages, initialize the master a
 
 The kubernetes cluster have the following features by default:
 - Kubernetes control plane (1.13.1)
-- Calico networking CNI
+- Calico networking CNI v3.7
 - kubectl bash completion
 
 
