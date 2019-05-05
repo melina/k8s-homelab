@@ -138,7 +138,7 @@
 
     - name: Download calico.yaml
       get_url:
-        url: https://docs.projectcalico.org/v3.4/getting-started/kubernetes/installation/hosted/calico.yaml
+        url: https://docs.projectcalico.org/v3.7/manifests/calico.yaml
         dest: /home/vagrant/
       when: calico_exists is failed
     
